@@ -8,5 +8,5 @@ Final To-Do:
 4. Create presentation
 5. Record presentation
 6. ???
-7. Profit $u$
+7. Profit 🤑
 
