@@ -4,78 +4,115 @@
 
 sex - student's sex (binary: 'F' - female or 'M' - male)
     - SACD, SPIE, and SP
+    
 age - student's age (numeric: from 15 to 22)
     - SACD, SPIE, and SP
+
 address - student's home address type (binary: 'U' - urban or 'R' - rural)
     - SACD
+
 famsize - family size (binary: 'LE3' - less or equal to 3 or 'GT3' - greater than 3)
     - SACD
+    
 Pstatus - parent's cohabitation status (binary: 'T' - living together or 'A' - apart)
     - SACD
+
 Medu - mother's education (numeric: 0 - none, 1 - primary education (4th grade), 2 – 5th to 9th grade, 3 – secondary education or 4 – higher education)
     - SACD
+
 Fedu - father's education (numeric: 0 - none, 1 - primary education (4th grade), 2 – 5th to 9th grade, 3 – secondary education 4 – associates  5 - bachelors 6 - masters 7 - phd)
     - SACD or SP(4 or higher) depending on numeric
+
 General Parental education - (some college, associate's degree, other)
     - SPIE (should be derived from average of Medu + Fedu)
+
 Mjob - mother's job (nominal: 'teacher', 'health' care related, civil 'services' (e.g. administrative or police), 'at_home' or 'other')
     - SACD
+
 Fjob - father's job (nominal: 'teacher', 'health' care related, civil 'services' (e.g. administrative or police), 'at_home' or 'other')
     - SACD
+
 reason - reason to choose this school (nominal: close to 'home', school 'reputation', 'course' preference or 'other')
     - SACD
+
 guardian - student's guardian (nominal: 'mother', 'father' or 'other')
     - SACD
+
 traveltime - home to school travel time (numeric: 1 - <15 min., 2 - 15 to 30 min., 3 - 30 min. to 1 hour, or 4 - >1 hour)
     - SACD
+
 studytime - weekly study time (numeric: 1 - <2 hours, 2 - 2 to 5 hours, 3 - 5 to 10 hours, or 4 - >10 hours)
     - SACD and SP
+
 failures - number of past class failures (numeric: n if 1<=n<3, else 4)
     - SACD
+
 schoolsup - extra educational support (binary: yes or no)
     - SACD and SPIE
+
 famsup - family educational support (binary: yes or no)
     - SACD
+
 paid - extra paid classes within the course subject (Math or Portuguese) (binary: yes or no)
     - SACD
+
 activities - extra-curricular activities (binary: yes or no)
     - SACD and SP
+
 nursery - attended nursery school (binary: yes or no)
     - SACD
+
 higher - wants to take higher education (binary: yes or no)
     - SACD
+
 internet - Internet access at home (binary: yes or no)
     - SACD
+
 romantic - with a romantic relationship (binary: yes or no)
     - SACD and SP
+
 famrel - quality of family relationships (numeric: from 1 - very bad to 5 - excellent)
     - SACD
+
 freetime - free time after school (numeric: from 1 - very low to 5 - very high)
     - SACD
+
 goout - going out with friends (numeric: from 1 - very low to 5 - very high)
     - SACD
+
 Dalc - workday alcohol consumption (numeric: from 1 - very low to 5 - very high)
     - SACD
+
 Walc - weekend alcohol consumption (numeric: from 1 - very low to 5 - very high)
     - SACD
+
 health - current health status (numeric: from 1 - very bad to 5 - very good)
     - SACD
+
 school lunch status (free/reduced, standard)
     - SPIE
+
 scholarship (yes, no)
     - SP
+
 work (yes,no)
     - SP
+
 salary (amount range)
     - SP
+
 reading frequency (hour range)
     - SP
+
 science reading frequency (hour range)
     - SP
+
 attendance (number of absences)
     - SP
+    
 takes notes (yes,no)
     - SP
+
 
 ## From "Student_predictions" (SP)
 
