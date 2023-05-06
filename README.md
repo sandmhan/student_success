@@ -22,15 +22,7 @@ that are not _explicitely_ associated such as household income, alcohol consumpt
 
 ## How to run model
 
-
-
-
-Final To-Do:
-1. Create Final model for data set
-2. Create input form for testing full model
-3. Write up report (Can do most before code is done)
-4. Create presentation
-5. Record presentation
-6. ???
-7. Profit 🤑
-
+1. Overview project_form.md to see the necessary questions that are to be answered
+2. Reference the model files for each answer 
+3. Input the corresponding answers into each model's sample array
+4. Run each model and sum up the weighted results to get final prediction
